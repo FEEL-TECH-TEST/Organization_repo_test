@@ -1,4 +1,4 @@
 # Organization_repo_test
-Organizationで作成したリポジトリ
+サーバソース
 # TEST
 連携
